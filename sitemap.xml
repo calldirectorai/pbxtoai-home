@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://calldirectorai.github.io/pbxtoai-home/</loc>
-    <lastmod>2026-10-05T03:12:53.553Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
+  <url><loc>https://pbxtoai.com/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/phone-system-review/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/solutions/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/solutions/sip-cloud-pbx/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/solutions/voice-ai-receptionist/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/solutions/legacy-line-modernization/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/solutions/call-routing-missed-calls/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/industries/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/resources/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/about/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/contact/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/privacy-policy/</loc><lastmod>2026-10-05</lastmod></url>
+  <url><loc>https://pbxtoai.com/terms-of-service/</loc><lastmod>2026-10-05</lastmod></url>
 </urlset>
